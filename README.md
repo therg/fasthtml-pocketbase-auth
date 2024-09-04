@@ -19,7 +19,7 @@ export DEBUG=True
 
 ## PocketBase URL
 
-By default the PocketBase instance will be access at `http://localhost:8090`. If you want to change this, you can set the `PB_BASE_URL` environment variable.
+By default the PocketBase instance will be accessed at `http://localhost:8090`. If you want to change this, you can set the `PB_BASE_URL` environment variable.
 
 ```
 export PB_BASE_URL=https://my-pb-backend.pockethost.io
@@ -33,7 +33,7 @@ export PB_BASE_URL=https://my-pb-backend.pockethost.io
 
  1. Navigate to http://localhost:5001
  2. You should be redirected to /login
- 3. Login with one of your users that exist in your PocketBase users collection
+ 3. Login with one of your users that exist in your PocketBase `users` collection
  
 
  # Customize
